@@ -1,27 +1,57 @@
-# BBBBBBBrandon_9103_tut9
+# BBBBBBBrandon_9103_tut9_Quiz 8
 # Header
 ## Header
 # **Hola**
 ## *Hola in italic*
-##Part 1: Imaging Technique Inspiration
-
-###1.Identify an imaging technique that you find inspiring for your assignment. This could be from an artwork, a design project, a film clip, or a movie.
-
-###2.Write a maximum of 100 words discussing which aspect of the example you'd like to incorporate into your project and why you believe it's a beneficial technique considering the assignment requirements.
-
-###3.Include at least 2 high-quality screenshots or images to illustrate your chosen example.
 
 
 
-##Part 2: Coding Technique Exploration
+# PART 1
 
-###1.Find a coding technique that could assist in implementing the imaging technique you selected in Part 1 of this quiz.
+# Imaging technique
+1. Identify an imaging technique that you find inspiring for your assignment. This could be from an artwork, a design project, a film clip, or a movie.
 
-###2.In no more than 100 words, discuss how this coding technique might help achieve or or contribute to the desired effect.
 
-###3.You're encouraged to draw inspiration from any coding language or toolkit.
+# Aspect incorporated and beneficial to our project
+2. Write a maximum of 100 words discussing which aspect of the example you'd like to incorporate into your project and why you believe it's a beneficial technique considering the assignment requirements.
 
-###4.Provide an image or screenshot showcasing the coding technique in action, along with a link to an example implementation (including a link to some example code).
+# 2+ screenshots and images
+3. Include at least 2 high-quality screenshots or images to illustrate your chosen example.
+
+- # Images
+  from webpage
+
+  ![A cat](https://placekitten.com/200/300)
+
+
+
+
+# PART 2
+
+# Coding technique
+1. Find a coding technique that could assist in implementing the imaging technique you selected in Part 1 of this quiz.
+
+# Achievement and contribution
+2. In no more than 100 words, discuss how this coding technique might help achieve or or contribute to the desired effect.
+
+# Any other language or toolkit
+3.You're encouraged to draw inspiration from any coding language or toolkit.
+
+# Image and link
+4. Provide an image or screenshot showcasing the coding technique in action, along with a link to an example implementation (including a link to some example code).
+
+- # Links
+  [What is github](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+- # Images
+  from webpage
+
+  ![A cat](https://placekitten.com/200/300)
+
+
+
+
+
 
 
 
@@ -56,6 +86,11 @@ custom
 backtick:
 `print("Hello world")`
 
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
 ```
 function helloWorld() {
 console.log("Hello, world!");
