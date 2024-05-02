@@ -11,17 +11,19 @@
 # Imaging technique
 1. Identify an imaging technique that you find inspiring for your assignment. This could be from an artwork, a design project, a film clip, or a movie.
 
-    - Weighted Voroni stippling & Image to ASCII & Geometric shaping
+    - Weighted Voroni stippling 
+    - Image to ASCII 
+    - Geometric shaping
 
 
 
 # Aspect incorporated and beneficial to our project
 2. Write a maximum of 100 words discussing which aspect of the example you'd like to incorporate into your project and why you believe it's a beneficial technique considering the assignment requirements.
 
-
+    - I am a big fan of The Matrix, I am also interested in the effect of decoding and encoding (image to ASCII)in the transformation process during the fight. I hoe to add animated effect during the coding process. The second imaging technique is more abstract which it would be my preferences to represent absract elements of the assignments. In addition, I like the physics principle of "dots make the line" and i was also inspired by the generative portrait which reminds me of the theme of futuristic and unrealistic. The third inspiration that i considered is the geometric shaping. It provides me connection between the previous example and my ecpected theme of the final assignment. I tend try the best to use these technique to represent one of the artwork (the last two pieces), they were fined by distinct lines, simple/flat partitions, and structural design and some of the complex layers that are challenging.
 
 # screenshots and images
-3. Include at least 2 high-quality screenshots or images to illustrate your chosen example.
+3. Include at least 2 high-quality screenshots or images to illustrate your chosen example. 
 
 - # Images
 
@@ -34,10 +36,10 @@
   ## Geometric shaping
    ![Example](readmeimages/431c1ba2162d15ee12c56984f8b30c38.jpg)
   
-  ## Other example related to assessment
+  ## art work related to assessment
    ![Example](readmeimages/Anwar%20Jalal%20Shemza%20Apple%20Tree.jpeg)
 
-  ## Other example related to assessment
+  ## art work related to assessment
    ![Example](readmeimages/Edvard_Munch_The_Scream.jpeg)
 
 
