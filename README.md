@@ -51,71 +51,60 @@
 # Coding technique
 1. Find a coding technique that could assist in implementing the imaging technique you selected in Part 1 of this quiz.
 
+    - Weighted Voronoi Stippling
+
+
 # Achievement and contribution
 2. In no more than 100 words, discuss how this coding technique might help achieve or or contribute to the desired effect.
 
+
+    - Weighted Voronoi Stippling
+      - It is based on Lloyd's relaxation algorithm, which iteratively moves points in a plane to achieve a distribution that minimizes the weighted sum of the distances between each point and its nearest neighbors.it stippled artworks with a natural and organic feel
+    
+
 # Any other language or toolkit
-3.You're encouraged to draw inspiration from any coding language or toolkit.
+3. You're encouraged to draw inspiration from any coding language or toolkit.
+
+    - Delaunay triangulation
+    - LoadPixels
+    - HTML (div)
+    - asciiImage
+
+- Delaunay triangulation
+    - is a geometric technique that helps in creating a mesh of triangles from a set of points in a plane.
+    - for generating complex and visually striking patterns in generative art, offering artists a way to create organic, structured, or chaotic designs, depending on their creative intent.
+- LoadPixels
+    - enabling the creation of dynamic and visually engaging artwork that goes beyond traditional forms of digital art.  
+- asciiImage
+    - Aesthetic Appeal: ASCII art has a nostalgic and retro aesthetic that appeals to many people. It can evoke feelings of nostalgia or add a vintage touch to modern artworks.
+    - Text-Based Animation: By creating a series of ASCII frames and displaying them sequentially, you can create text-based animations. This adds a dynamic element to your generative art projects.
+    - Integration with Other Techniques: ASCII art can be combined with other generative art techniques, such as image manipulation or text generation, to create more complex and layered artworks.  
+
 
 # Image and link
 4. Provide an image or screenshot showcasing the coding technique in action, along with a link to an example implementation (including a link to some example code).
 
-- # Links
-  [What is github](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 - # Images
-  from webpage
+  - Link
+  [p5.js](https://editor.p5js.org/karan.suthar.lakha/sketches/oBp4F8b8M)
 
-  ![A cat](https://placekitten.com/200/300)
+  ![myself moving in dots](readmeimages/Screenshot%202024-05-02%20at%2023.07.48.png)
 
+  
+- # Images
+  - Link
+  [p5.js](https://editor.p5js.org/codingtrain/sketches/KTVfEcpWx)
 
-
-
-
-
-
-
-
-
+  ![myself](readmeimages/Screenshot%202024-05-02%20at%2023.14.28.png)
 
 
 
 
-*Hola in italic*
-Unordered list
-- item 1
- - Subitem
-  - ## sub
 
-  1. Number1
-  2. Number 2
 
-  # Links
-  [What is github](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
-# Images
-from webpage
 
-![A cat](https://placekitten.com/200/300)
 
-# Images
-custom
-![A cat](inspiration/IMG_8662.jpg)
 
-# Code Blocks
-backtick:
-`print("Hello world")`
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-# Blockquotes
-> This is a blockquote
 
