@@ -1,10 +1,4 @@
-# BBBBBBBrandon_9103_tut9_Quiz 8
-# Header
-## Header
-# **Hola**
-## *Hola in italic*
-
-
+# YUSHI LIANG_9103_tut9_Quiz 8
 
 # PART 1
 
