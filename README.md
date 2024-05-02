@@ -11,17 +11,35 @@
 # Imaging technique
 1. Identify an imaging technique that you find inspiring for your assignment. This could be from an artwork, a design project, a film clip, or a movie.
 
+    - Weighted Voroni stippling & Image to ASCII & Geometric shaping
+
+
 
 # Aspect incorporated and beneficial to our project
 2. Write a maximum of 100 words discussing which aspect of the example you'd like to incorporate into your project and why you believe it's a beneficial technique considering the assignment requirements.
 
-# 2+ screenshots and images
+
+
+# screenshots and images
 3. Include at least 2 high-quality screenshots or images to illustrate your chosen example.
 
 - # Images
-  from webpage
 
-  ![A cat](https://placekitten.com/200/300)
+  ## Image to ASCII
+  ![Example](readmeimages/matrix.jpg)
+
+  ## Weighted Voroni stippling
+  ![Example](readmeimages/Screenshot%202024-05-02%20at%2021.17.34.png)
+
+  ## Geometric shaping
+   ![Example](readmeimages/431c1ba2162d15ee12c56984f8b30c38.jpg)
+  
+  ## Other example related to assessment
+   ![Example](readmeimages/Anwar%20Jalal%20Shemza%20Apple%20Tree.jpeg)
+
+  ## Other example related to assessment
+   ![Example](readmeimages/Edvard_Munch_The_Scream.jpeg)
+
 
 
 
